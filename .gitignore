@@ -4,8 +4,8 @@ env
 pretrained_models
 
 #data 
-data/audio_cuts
-data/clean_audio
-data/raw_audio
-data/spanish_dataset
-data/clean_audio1
+/data/audio_cuts
+/data/clean_audio
+/data/raw_audio
+/data/spanish_dataset
+/data/clean_audio1
