@@ -2,3 +2,10 @@
 env
 #ignore pre-trained model
 pretrained_models
+
+#data 
+data/audio_cuts
+data/clean_audio
+data/raw_audio
+data/spanish_dataset
+data/clean_audio1
