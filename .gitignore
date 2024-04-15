@@ -1,0 +1,4 @@
+#ignore enviroment
+env
+#ignore pre-trained model
+pretrained_models
