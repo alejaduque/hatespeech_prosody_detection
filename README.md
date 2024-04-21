@@ -1,7 +1,7 @@
 # hatespeech_prosody_detection
 This project is oriented towards determining whether hate speech can be detected through prosodic features in speech.
 
-# # What will I find in this repo?
+# What will I find in this repo?
 
 * Data (file): In this file you will find the following content:
 
